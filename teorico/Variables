@@ -1,0 +1,12 @@
+Variables: Son entidades, contienen valores o datos que pueden ser modificados, una declaración
+de variable siempre contiene 2 partos, el tipo de la variable y su nombre.
+
+Tipo de variable: contiene los valores y las operaciones que puede tener una variable. Un tipo
+puede ser primitivo o de referencia.
+Ej:  
+  int numero = 10;
+  boolean valor = true;
+  var numero3 = 15; (var flexible, el compilador le da el tipo segun el valor asignado)
+
+STRING son objetos de java, del tipo de referencia, se defina declarando el tipo y su nombre.
+Para comparar string usamos el metodo "equal"
