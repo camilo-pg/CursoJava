@@ -1,3 +1,5 @@
+package teorico;
+
 public class Cadenas {
     public static void main(String[] args) {
         String cadena = "Texto";

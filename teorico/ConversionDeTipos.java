@@ -1,3 +1,5 @@
+package teorico;
+
 public class ConversionDeTipos {
     public static void main(String[] args) {
         // Conversión de String a primitivos
